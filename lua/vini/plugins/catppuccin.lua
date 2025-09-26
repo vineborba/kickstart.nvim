@@ -3,7 +3,7 @@ return {
     'catppuccin/nvim',
     name = 'catppuccin',
     lazy = false,
-    enabled = false,
+    enabled = true,
     opts = {
       flavour = 'mocha',
       transparent_background = true,
